@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
-markdown: lanyon
+markdown: kramdown
 url: http://domesticempire.github.io
-title: exmessiah
+title: exmessiah (he has risen, now he must nap)
 email: retailonly@gmail.com
 author: exmessiah
 description: he has risen, now he must nap
