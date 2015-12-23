@@ -1,6 +1,6 @@
 excerpt_separator: ""
 pygments: true
-markdown: kramdown
+markdown: lanyon
 url: http://domesticempire.github.io
 title: exmessiah
 email: retailonly@gmail.com
