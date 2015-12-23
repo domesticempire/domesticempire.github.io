@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://domesticempire.github.io
+title: exmessiah
+email: retailonly@gmail.com
+author: exmessiah
+description: he has risen, now he must nap
+paginate: 3
+google_analytics: 
